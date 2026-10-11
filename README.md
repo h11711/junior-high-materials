@@ -1,4 +1,44 @@
-         
-/地理/资源与评价/2025资源评价八下地理.pdf  ==> 本文件指向外部存储服务 This file links to an external storage service. ==> https://1832674303.share.123pan.cn/123pan/yaUvTd-MV8rv
+# junior-high-materials
 
-@ 2026 Steve Huang. All rights reserved.
+初中学习资料整理与备份。
+
+## 简介
+
+这个仓库用于存放我初中阶段收集和整理的各类学习资料，涵盖九大学科。所有文件按学科分目录存放，方便查找和长期保存。
+
+## 目录结构
+
+```
+junior-high-materials/
+├── 语文/
+├── 数学/
+├── 英语/
+├── 物理/
+├── 化学/
+├── 生物学/
+├── 历史/
+├── 地理/
+├── 道德与法治/
+├── STRUCTURE.txt
+└── README.md
+```
+
+详细文件清单见 [`STRUCTURE.txt`](./STRUCTURE.txt)。
+
+## 使用说明
+
+- 按学科进入对应目录，资料以 PDF 为主。
+- 部分文件体积较大，未直接存放在仓库中，而是通过外部存储服务（123 云盘）提供，仓库内保留指向链接的说明文件。
+- 例如：`/地理/资源与评价/2025资源评价八下地理.pdf` 指向外部链接 https://1832674303.share.123pan.cn/123pan/yaUvTd-MV8rv
+
+## 说明
+
+- 本仓库仅作个人学习资料的整理与备份，不对资料的完整性、时效性作保证。
+- 资料版权归各自原作者与出版方所有。如有侵权，请联系删除。
+- 请勿将本仓库内容用于商业用途。
+
+## 许可
+
+本仓库中的整理工作与目录结构由 Steve Huang 维护。
+
+© 2026 Steve Huang. All rights reserved.
